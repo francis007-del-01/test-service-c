@@ -6,7 +6,7 @@
   <artifactId>test-service-c</artifactId>
   <version>1.0.0</version>
   <properties>
-    <core-lib.version>3.0.0</core-lib.version>
+    <core-lib.version>3.0.1</core-lib.version>
   </properties>
   <dependencies>
     <dependency>
